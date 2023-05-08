@@ -10,7 +10,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com/), [Nod
 $ git clone https://github.com/iDanielrv/weather-project.git
 
 # Go into the repository
-$ cd weather-project
+$ cd nodeapi
 
 # Install dependencies
 $ npm install ou yarn install
@@ -22,7 +22,7 @@ $ nodemon app
 ##  Technologies
 
 -  [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
--  [NODE](https://nodejs.org/en/docs)
+-  [Node.js](https://nodejs.org/en/docs)
 -  [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 -  [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
