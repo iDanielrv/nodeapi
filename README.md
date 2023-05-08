@@ -1,4 +1,4 @@
-# node=api
+# node-api
 Creating an API with Node.js
 
 ##  How To Use
@@ -7,7 +7,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com/), [Nod
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/iDanielrv/weather-project.git
+$ git clone https://github.com/iDanielrv/nodeapi.git
 
 # Go into the repository
 $ cd nodeapi
